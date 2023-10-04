@@ -428,6 +428,7 @@
 .footer_box span{
     color: #fbfbfb;
     font-family: 'Lato';
+    font-weight: 400;
     font-size: 16px;
 }
 .footer__link .facebook{
